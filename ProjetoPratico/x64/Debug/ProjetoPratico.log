@@ -1,0 +1,4 @@
+﻿  ProjetoPratico.cpp
+D:\Users\samuelcorocha\Documents\AEDS\Projeto Prático\ProjetoPratico\ProjetoPratico\ProjetoPratico.cpp(122,15): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+D:\Users\samuelcorocha\Documents\AEDS\Projeto Prático\ProjetoPratico\ProjetoPratico\ProjetoPratico.cpp(264): warning C4715: 'buscaPalavra': nem todos os caminhos de controle retornam um valor
+  ProjetoPratico.vcxproj -> D:\Users\samuelcorocha\Documents\AEDS\Projeto Prático\ProjetoPratico\x64\Debug\ProjetoPratico.exe
